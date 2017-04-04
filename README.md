@@ -1,7 +1,7 @@
 
 # install-jenkins-plugin.sh
 
-this scrip will install any jenkins plugin with it's deps.
+This scrip will install any jenkins plugin with it's deps. Provide plugin name as the first argument when running the script.
 For more info [link](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+CLI)
 
 # Parse git.html
